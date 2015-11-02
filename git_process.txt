@@ -1,0 +1,8 @@
+Go into terminal by clicking on the black icon between the chrome icon and the home folder icon
+Go into repository folder with command "cd email1234-cmis"
+Clone git using command line
+Create, edit and save files using gedit with command " gedit filename" " Control S or press save at the top left of the document to save"
+Add to git or git add by using command "git add filename"
+git commit by using command (git commit -m "short description of waht you did in quotations")
+use command "git status" to check if the file is ready to be added
+use command "git push" for the final step
