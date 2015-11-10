@@ -1,15 +1,36 @@
 h1 {
 	color:#006699;
-	font-family:"courier new";
-	font-style:italic;
-	border:solid 5px;
+	font-family:"cmic sans MS";
+	font-size:75px;
+	font-style:bold;
+	border:solid;
+	border-width:10px;
+	border-color:#FF0033 #FF0099 #FF0099 #CCFF33;
 	background-color:#00FFCC
 }
 h2 {
 	color:#00FF00;
-	font-family: "lucida console";
-	font-style:50px
+	font-family:"courier new"; 
+	border:solid;
+	border-style:italic;
+	border-width:10px;
+	border-color:#000000;
+	font-size:50px;
 	font-style:bold;
+}
+p {
+	color:#FF0099;
+	font-size:25px;
+	font-family:"impact";
+	border-width:5px;
+	border-style:inset;
+	border-color:#3300CC;
+}
+f {
+	color:#9900FF;
+}
+html {
+	background-color:#99FFFF;
 }
 	
 
