@@ -12,5 +12,11 @@ put * = everything in folder
 put *.txt .jpg etc = everything in file of that type
 rm = remove files
 exit = exit sftp
+view index from development server = localhost:8000
+create new folder : mkdir (new folder name) list and links
+command sftp : sftp username@cmis-hsteacher
+cd repository
+command : put
+remove file : rm filename
  
 
